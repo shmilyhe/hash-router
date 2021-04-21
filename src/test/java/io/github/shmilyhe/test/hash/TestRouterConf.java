@@ -1,7 +1,6 @@
 package io.github.shmilyhe.test.hash;
 
 import java.util.Random;
-import java.util.UUID;
 
 import org.junit.Test;
 

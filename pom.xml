@@ -4,7 +4,7 @@
 
 	<groupId>io.github.shmilyhe</groupId>
 	<artifactId>hash-router</artifactId>
-	<version>1.4.7</version>
+	<version>0.0.1</version>
 	<packaging>jar</packaging>
 	<description>hash-router</description>
 	<name>io.github.shmilyhe:hash-router</name>
